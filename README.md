@@ -1,0 +1,2 @@
+# gitaut
+Git automation scripts
